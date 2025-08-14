@@ -15,7 +15,7 @@ export function Navbar() {
     { href: "/club-activity", label: "Club Activity" },
     { href: "/games", label: "Games" },
     { href: "/news", label: "News" },
-    { href: "/login", label: "Sign Up/Sign in " },
+    { href: "/login", label: "Sign Up/Sign In " },
   ]
 
   return (
